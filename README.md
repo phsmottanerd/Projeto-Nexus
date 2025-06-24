@@ -8,7 +8,22 @@ O planejamento, organização das tarefas e acompanhamento do progresso estão d
 [Jira - Projeto Nexus](https://phsmottavaiper.atlassian.net/jira/core/projects/PN/summary)
 
 ## Sobre o Projeto
-https://github.com/phsmottanerd/Projeto-Nexus/blob/main/Resumo%20-%20Projeto%20Nexus%20-%20Jira%20-%20Opera%2023_06_2025%2023_55_08.png
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <title>Imagem PNG do Projeto Nexus</title>
+</head>
+<body>
+  <h2>Imagem PNG do Projeto Nexus</h2>
+  <img
+    src="https://raw.githubusercontent.com/phsmottanerd/Projeto-Nexus/main/Resumo%20-%20Projeto%20Nexus%20-%20Jira%20-%20Opera%2023_06_2025%2023_55_08.png"
+    alt="Resumo Projeto Nexus"
+    width="600"
+  />
+</body>
+</html>
+
 
 O Projeto Nexus é um exercício prático de organização e planejamento de um site focado em aprendizado de QA, design e desenvolvimento front-end básico.  
 Ele foi estruturado para aplicar conceitos de gerenciamento ágil usando o Jira, incluindo tarefas de criação de conceito, design, testes e lançamento.
