@@ -1,9 +1,5 @@
 # Projeto Nexus - Web Designer
 
-Este repositório contém os arquivos do site desenvolvido para o bootcamp da DIO.
-
-## Gerenciamento do Projeto
-
 O planejamento, organização das tarefas e acompanhamento do progresso estão disponíveis no Jira:  
 [Jira - Projeto Nexus](https://phsmottavaiper.atlassian.net/jira/core/projects/PN/summary)
 
@@ -24,6 +20,9 @@ O planejamento, organização das tarefas e acompanhamento do progresso estão d
 </body>
 </html>
 
+Este repositório contém os arquivos do site desenvolvido para o bootcamp da DIO.
+
+## Gerenciamento do Projeto
 
 O Projeto Nexus é um exercício prático de organização e planejamento de um site focado em aprendizado de QA, design e desenvolvimento front-end básico.  
 Ele foi estruturado para aplicar conceitos de gerenciamento ágil usando o Jira, incluindo tarefas de criação de conceito, design, testes e lançamento.
